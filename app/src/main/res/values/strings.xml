@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab03</string>
+    <string name="Activity_Menu">Menu</string>
+    <string name="Activity_PostulanteRegistro">Postulante Registro</string>
+    <string name="Activity_PostulanteInfo">Postulante Info</string>
+</resources>
